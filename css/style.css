@@ -1,0 +1,29 @@
+.navbar-brand{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 2em;
+    font-weight: bold;
+}
+
+.custom-nav-item:hover{
+ background-color: brown;
+ border-radius: 8%;
+}
+
+.bottom-banner{
+    color: #fff;
+    padding: 10px;
+    justify-content: center;
+    text-align: center;
+
+}
+
+
+
+
+
+
+@media screen and (min-width:0px) and (max-width:700px){
+    .my-content,.txt-banner{
+        display: none;
+    }
+}
