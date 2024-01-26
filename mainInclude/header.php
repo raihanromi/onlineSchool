@@ -20,7 +20,7 @@
 
   <!-- Custom css style -->
   <link rel="stylesheet" href="css/style.css">
-    <title>Brac online</title>
+    <title>Online School</title>
 </head>
 <body>
 
@@ -28,7 +28,7 @@
 
 <nav class="navbar navbar-expand-sm navbar-light bg-light pl-5" >
   <div class="container-fluid">
-    <a class="navbar-brand" href="index.php">Brac online</a>
+    <a class="navbar-brand" href="index.php">Online School</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
