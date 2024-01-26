@@ -5,7 +5,7 @@
 <?php include_once("dbConnection.php") ?>
 
 <center>
-<h1 class="my-content">welcome to Brac online</h1>
+<h1 class="my-content">Welcome To Online School</h1>
 <?php if(!isset($_SESSION['is_login'])){
    echo '<a href="#" class="btn btn-danger" data-bs-toggle="modal" data-bs-target="#stuRegModalCenter">Get Started</a>';
 }else{
